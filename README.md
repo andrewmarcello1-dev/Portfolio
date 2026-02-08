@@ -7,3 +7,4 @@ Topics:
 - Approximate Hypersonic Methods
 - Serial Communication
 - Linear Controller Simulation
+- Linear & Non-linear Optimization
