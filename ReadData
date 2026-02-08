@@ -1,12 +1,14 @@
 clear; close all; clc
 
-%{ =============================================================
-  This code recieves data from three different files based
-  on user input and then cuts and plots the provided data on the
-  time domain - Unable to provide data files due to data protections.
-  Variable names and comments have been deleted or changed due to
-  data protections.
-%} =============================================================
+%{ 
+====================================================================
+This code recieves data from three different files based
+on user input and then cuts and plots the provided data on the
+time domain - Unable to provide data files due to data protections.
+Variable names and comments have been deleted or changed due to
+data protections.
+====================================================================
+%} 
   
 
 %% Import Desired Data
